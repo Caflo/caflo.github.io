@@ -17,7 +17,7 @@ permalink: /contact-me/
     <label for="message">Message</label>
 	<br>
 	<br>
-    <textarea rows="5" cols="90" name="message" id="message" placeholder="Enter your message here" required=""></textarea>
+    <textarea style="width:100%" rows="5" name="message" id="message" placeholder="Enter your message here" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
