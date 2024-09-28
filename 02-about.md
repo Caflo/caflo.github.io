@@ -36,7 +36,10 @@ permalink: /about/
 		- Python with `Locust`, `PrometheusDB`, `Kibana` for load tests & simulation of 1000+ clients
 - **Malware analysis**
 	- x86 reverse engineering using FlareVM, IDA and other malware analysis tools
-	- Studied exotic injection techniques and evasion capabilities of samples
+	- Reverse-engineered a commercial C2 framework
+		- Studied exotic injection techniques and evasion capabilities of generated samples
+		- Studied immutable characteristics of the file in search of particular data, blocks of instructions and artifacts that could make the file suspicious
+	- Output: yara rule that allows the file to be detected by scanning instruments
 
 #### Summer 2020: Full-stack developer @ AFA Systems
 - **Project management and development**
