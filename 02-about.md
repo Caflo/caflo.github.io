@@ -70,6 +70,7 @@ permalink: /about/
 ---
 
 # Certifications
+- **GIAC Reverse Engineering Malware (GREM)**: https://www.credly.com/badges/a029363e-f93b-46dd-a7a6-ea23b16c8c0f/public_url
 - **Maldevacademy**: *Certificate of Completion*
 	- Content: C/C++ malware development, windows internals, C2 development, cutting-edge malware evasion mechanisms, cross-compilation Linux -> Windows
 
